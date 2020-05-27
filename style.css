@@ -1,0 +1,44 @@
+body { background-color: cornflowerblue; 
+       background-image: url("earth.jpg");
+     }
+
+.icust { 
+    background: #000000;
+    font: bold 16px tahoma;
+    line-height: 40px;
+    text-align: center;
+    color: #ffffff;
+    width: 400px;
+    height: 40px;
+    border-radius:10px;
+        }
+
+.icalt { 
+    color: #ffffff;
+    background: #000000;
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+        }
+
+.govde {
+    border-radius: 10px;
+    background: #000;
+    width: 400px; 
+    height: 400px;
+    border: 0px;
+    margin: 300px auto;
+       }
+
+button { width:150px;
+        height: 25px;
+        margin: 10px 10px 10px 13px;
+        background: darkgreen;
+
+        
+}
+
+.td { width: 190px;
+      height: 25px;
+      margin: 5px auto;
+     }
